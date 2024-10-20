@@ -1,0 +1,3 @@
+# Readme
+
+Basic neovim configuration.
